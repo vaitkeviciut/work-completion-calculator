@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/work-completion-calculator/static/css/main.f98ab12e.css",
+    "main.js": "/work-completion-calculator/static/js/main.d798ab4c.js",
+    "static/js/787.3641db70.chunk.js": "/work-completion-calculator/static/js/787.3641db70.chunk.js",
+    "index.html": "/work-completion-calculator/index.html",
+    "main.f98ab12e.css.map": "/work-completion-calculator/static/css/main.f98ab12e.css.map",
+    "main.d798ab4c.js.map": "/work-completion-calculator/static/js/main.d798ab4c.js.map",
+    "787.3641db70.chunk.js.map": "/work-completion-calculator/static/js/787.3641db70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98ab12e.css",
+    "static/js/main.d798ab4c.js"
+  ]
+}
