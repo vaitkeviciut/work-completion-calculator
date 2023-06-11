@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/work-completion-calculator/static/css/main.a7f378ff.css",
-    "main.js": "/work-completion-calculator/static/js/main.5d69ca94.js",
+    "main.css": "/work-completion-calculator/static/css/main.aa5b21d9.css",
+    "main.js": "/work-completion-calculator/static/js/main.e2b4aa7b.js",
     "static/js/787.3641db70.chunk.js": "/work-completion-calculator/static/js/787.3641db70.chunk.js",
     "index.html": "/work-completion-calculator/index.html",
-    "main.a7f378ff.css.map": "/work-completion-calculator/static/css/main.a7f378ff.css.map",
-    "main.5d69ca94.js.map": "/work-completion-calculator/static/js/main.5d69ca94.js.map",
+    "main.aa5b21d9.css.map": "/work-completion-calculator/static/css/main.aa5b21d9.css.map",
+    "main.e2b4aa7b.js.map": "/work-completion-calculator/static/js/main.e2b4aa7b.js.map",
     "787.3641db70.chunk.js.map": "/work-completion-calculator/static/js/787.3641db70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7f378ff.css",
-    "static/js/main.5d69ca94.js"
+    "static/css/main.aa5b21d9.css",
+    "static/js/main.e2b4aa7b.js"
   ]
 }
