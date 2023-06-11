@@ -1,5 +1,6 @@
 import { Route, Routes, Link } from 'react-router-dom';
 import MainPage from './components/MainPage';
+import './App.css';
 
 function App() {
   return (
@@ -11,7 +12,6 @@ function App() {
           <div>
             <div className='hero-box-wrapper'>
               <div className='hero-box-content-wrapper'>
-                <h1 className='hero-box-title'>JSON.API...</h1>
                 <Link className='get-started-link' to='/'>Lets het started</Link>
               </div>
             </div>
