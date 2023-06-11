@@ -12,7 +12,7 @@ function App() {
           <div>
             <div className='hero-box-wrapper'>
               <div className='hero-box-content-wrapper'>
-                <Link className='get-started-link' to='/'>Lets het started</Link>
+                <Link className='get-started-link' to='/'>Lets get started</Link>
               </div>
             </div>
             
