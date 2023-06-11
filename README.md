@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+A simple web application that helps you calculate the completion percentage and required hours per day to complete a work scope within a given deadline. The calculator takes into account factors such as sleeping hours and other activities to provide an estimate of the work progress.
+## Features
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Input the scope of work in hours and the deadline date.
+- Specify sleeping hours and other activities to calculate available work hours.
+- Calculates the completion percentage and required hours per day.
+- Provides feedback on whether the work can be completed within the given deadline.
+- Includes interactive circular progress bars to visualize time allocation.
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+- React: JavaScript library for building user interfaces.
+- react-circular-progressbar: React component for creating circular progress bars.
+- SCSS: CSS preprocessor for styling the application.
+- HTML: Markup language for structuring the web page.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To run the Work Completion Calculator locally on your machine, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Ensure that you have Node.js installed on your system.
+2. Clone this repository to your local machine.
+3. Open a terminal and navigate to the project directory.
+4. Install the project dependencies by running the following command:
+npm install
 
-### `npm test`
+5. Start the development server by running the following command:
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. Open your web browser and visit http://localhost:3000 to access the application.
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Enter the scope of work in hours and the deadline date.
+2. Specify the number of sleeping hours and other activities.
+3. Click the "Calculate" button to generate the results.
+4. Review the completion percentage, hours per day, and feedback on the feasibility of completing the work within the deadline.
+5. Adjust the inputs as needed and click "Calculate Again" to perform another calculation.
